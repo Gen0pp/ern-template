@@ -1,0 +1,1 @@
+const modelOne = require('../../db/models/model-one');
